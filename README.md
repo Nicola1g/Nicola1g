@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicola1g
 - 👀 I’m interested in STEM application 
 - 🌱 I’m currently learning blockchain development 
-- 💞️ I’m looking to collaborate on interest people for grow uup all toghether 
+- 💞️ I’m looking to collaborate on interest people for grow up all toghether 
 - 📫 My info about how to reach me are in description
 
 <!---
